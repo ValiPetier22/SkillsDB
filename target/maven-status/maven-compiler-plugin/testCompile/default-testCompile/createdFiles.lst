@@ -1,0 +1,3 @@
+com\skillsdb\jobseekerservice\controller\JobSeekerControllerTest.class
+com\skillsdb\jobseekerservice\JobseekerserviceApplicationTests.class
+com\skillsdb\jobseekerservice\service\JobSeekerServiceImplementationTest.class

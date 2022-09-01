@@ -1,0 +1,15 @@
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\exception\AppliedJobDoesNotExist.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\exception\JobDoesNotExist.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\model\AppliedJob.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\aspect\AspectConfig.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\jwtfilter\JwtFilter.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\config\SwaggerConfig.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\service\JobSeekerService.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\repository\JobSeekerRepository.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\model\JobSeeker.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\controller\JobSeekerController.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\exception\JobSeekerAlreadyExist.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\exception\JobSeekerDoesNotExist.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\JobseekerserviceApplication.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\service\JobSeekerImplementation.java
+C:\Users\cristian.paun\Desktop\SkillsDbProject\JobSeekerWithAuthentication\JobSeeker\src\main\java\com\skillsdb\jobseekerservice\aspect\LoggerAspect.java

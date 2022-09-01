@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      database: JobSeekerDbTest
+      port: 27017
+      host: localhost
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+server:
+  port: 8087

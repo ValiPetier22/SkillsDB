@@ -1,0 +1,15 @@
+com\skillsdb\jobseekerservice\config\SwaggerConfig.class
+com\skillsdb\jobseekerservice\exception\JobSeekerAlreadyExist.class
+com\skillsdb\jobseekerservice\exception\JobSeekerDoesNotExist.class
+com\skillsdb\jobseekerservice\service\JobSeekerImplementation.class
+com\skillsdb\jobseekerservice\aspect\AspectConfig.class
+com\skillsdb\jobseekerservice\JobseekerserviceApplication.class
+com\skillsdb\jobseekerservice\repository\JobSeekerRepository.class
+com\skillsdb\jobseekerservice\aspect\LoggerAspect.class
+com\skillsdb\jobseekerservice\service\JobSeekerService.class
+com\skillsdb\jobseekerservice\model\JobSeeker.class
+com\skillsdb\jobseekerservice\controller\JobSeekerController.class
+com\skillsdb\jobseekerservice\exception\AppliedJobDoesNotExist.class
+com\skillsdb\jobseekerservice\model\AppliedJob.class
+com\skillsdb\jobseekerservice\exception\JobDoesNotExist.class
+com\skillsdb\jobseekerservice\jwtfilter\JwtFilter.class
